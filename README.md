@@ -1,2 +1,2 @@
 # Inch-Convertor
-a simple inch convertor made in oython
+a simple inch convertor made in python
